@@ -20,7 +20,7 @@ public class Ventana extends JFrame{
 		
 		setResizable(false);
 		
-		setTitle("Mi primera ventana");
+		setTitle("Mi primera ventana 2.0");
 		
 		setLocationRelativeTo(null);
 
